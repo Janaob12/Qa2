@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-14T16:58:32 EET" name="Default suite" finished-at="2024-12-14T16:58:35 EET" duration-ms="2610">
+    <groups>
+    </groups>
+    <test started-at="2024-12-14T16:58:32 EET" name="Default test" finished-at="2024-12-14T16:58:35 EET" duration-ms="2610">
+      <class name="Almosafer">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:32 EET" name="SetUp" finished-at="2024-12-14T16:58:35 EET" duration-ms="2476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TheLanguageisEnglish()[pri:1, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheLanguageisEnglish" finished-at="2024-12-14T16:58:35 EET" duration-ms="30" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheLanguageisEnglish -->
+        <test-method signature="TheCurrency()[pri:2, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheCurrency" finished-at="2024-12-14T16:58:35 EET" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheCurrency -->
+        <test-method signature="TheContactNumber()[pri:3, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheContactNumber" finished-at="2024-12-14T16:58:35 EET" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheContactNumber -->
+        <test-method signature="TheFooter()[pri:4, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheFooter" finished-at="2024-12-14T16:58:35 EET" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TheFooter -->
+      </class> <!-- Almosafer -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
