@@ -1,32 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-14T16:58:32 EET" name="Default suite" finished-at="2024-12-14T16:58:35 EET" duration-ms="2610">
+  <suite started-at="2024-12-24T21:40:53 EET" name="Default suite" finished-at="2024-12-24T21:40:57 EET" duration-ms="4064">
     <groups>
     </groups>
-    <test started-at="2024-12-14T16:58:32 EET" name="Default test" finished-at="2024-12-14T16:58:35 EET" duration-ms="2610">
+    <test started-at="2024-12-24T21:40:53 EET" name="Default test" finished-at="2024-12-24T21:40:57 EET" duration-ms="4064">
       <class name="Almosafer">
-        <test-method is-config="true" signature="SetUp()[pri:0, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:32 EET" name="SetUp" finished-at="2024-12-14T16:58:35 EET" duration-ms="2476" status="PASS">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:53 EET" name="SetUp" finished-at="2024-12-24T21:40:56 EET" duration-ms="3164" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="TheLanguageisEnglish()[pri:1, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheLanguageisEnglish" finished-at="2024-12-14T16:58:35 EET" duration-ms="30" status="PASS">
+        <test-method signature="TheLanguageisEnglish()[pri:1, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="TheLanguageisEnglish" finished-at="2024-12-24T21:40:56 EET" duration-ms="27" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TheLanguageisEnglish -->
-        <test-method signature="TheCurrency()[pri:2, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheCurrency" finished-at="2024-12-14T16:58:35 EET" duration-ms="33" status="PASS">
+        <test-method signature="TheCurrency()[pri:2, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="TheCurrency" finished-at="2024-12-24T21:40:56 EET" duration-ms="29" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TheCurrency -->
-        <test-method signature="TheContactNumber()[pri:3, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheContactNumber" finished-at="2024-12-14T16:58:35 EET" duration-ms="21" status="PASS">
+        <test-method signature="TheContactNumber()[pri:3, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="TheContactNumber" finished-at="2024-12-24T21:40:56 EET" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TheContactNumber -->
-        <test-method signature="TheFooter()[pri:4, instance:Almosafer@77b14724]" started-at="2024-12-14T16:58:35 EET" name="TheFooter" finished-at="2024-12-14T16:58:35 EET" duration-ms="25" status="PASS">
+        <test-method signature="TheFooter()[pri:4, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="TheFooter" finished-at="2024-12-24T21:40:56 EET" duration-ms="25" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TheFooter -->
+        <test-method signature="HotelTap()[pri:5, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="HotelTap" finished-at="2024-12-24T21:40:56 EET" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelTap -->
+        <test-method signature="CheckDepartureDate()[pri:6, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="CheckDepartureDate" finished-at="2024-12-24T21:40:56 EET" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckDepartureDate -->
+        <test-method signature="CheckReturnDate()[pri:7, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:56 EET" name="CheckReturnDate" finished-at="2024-12-24T21:40:57 EET" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckReturnDate -->
+        <test-method signature="Randomly()[pri:8, instance:Almosafer@1d3ac898]" started-at="2024-12-24T21:40:57 EET" name="Randomly" finished-at="2024-12-24T21:40:57 EET" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Randomly -->
       </class> <!-- Almosafer -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
